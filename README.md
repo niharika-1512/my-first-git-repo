@@ -2,4 +2,4 @@
 
 This is the first github repo
 
-My own version while resolving conflicts
+My own version while resolving conflicts. This is the new change locally
