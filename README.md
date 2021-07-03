@@ -2,4 +2,4 @@
 
 This is the first github repo
 
-Readme file is changed manually. This file was changed locally
+My own version while resolving conflicts
