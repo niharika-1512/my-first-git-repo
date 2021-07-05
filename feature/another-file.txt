@@ -1,1 +1,2 @@
 This file was created in remote repo
+This file was changed in feature-2 locally
